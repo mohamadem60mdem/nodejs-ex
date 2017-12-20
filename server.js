@@ -106,3 +106,24 @@ app.listen(port, ip);
 console.log('Server running on http://%s:%s', ip, port);
 
 module.exports = app ;
+
+
+//****************************************************************
+
+ //********************************* this is me
+
+
+ const aaa = require('./b1');
+ console.log(aaa.test);
+ 
+ 
+ 
+ 
+ 
+  //********************************* this is me
+ 
+
+    //********************************* this is me
+      console.log('*************************start at: %s');
+    //********************************* this is me
+  
